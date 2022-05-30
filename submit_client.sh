@@ -1,5 +1,5 @@
 spark-submit \
     --master yarn \
     --deploy-mode client \
-    Assignment.py \
+    Assignment2.py \
     --output $1
